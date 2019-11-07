@@ -1,8 +1,14 @@
-# [Project Name]
+# FarewellFilth
 
-[Value Proposition]
+For IUPUI students who need a place to throw away their trash in
+parking garages, FarewellFilth is a mobile application that
+works to eliminate the issue of littering in IUPUI parking garages.
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+Application: allows students to communicate with janitors on which trash cans are full within IUPUI parking garages
+
+Primary stakeholders: IUPUI Students
+
+Value: less littering, more access to trash cans
 
 ## Links
 
